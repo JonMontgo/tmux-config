@@ -24,3 +24,10 @@ Reload tmux environment so tpm is sourced
 ```sh
 tmux source ~/.tmux.conf
 ```
+
+
+Install Your New Plugins!
+*Type this in when running tmux*
+```
+Tmux prefix (usually ctrl+b) + :PluginInstall
+```
