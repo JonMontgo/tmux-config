@@ -4,7 +4,7 @@
 
 Clone config into ~/.tmux *(assumes no previous .tmux)*
 ```sh
-https://github.com/JonMontgo/tmux-config.git ~/.tmux
+git clone https://github.com/JonMontgo/tmux-config.git ~/.tmux
 ```
 
 Link tmux config to home
@@ -29,5 +29,5 @@ tmux source ~/.tmux.conf
 Install Your New Plugins!
 *Type this in when running tmux*
 ```
-Tmux prefix (usually ctrl+b) + :PluginInstall
+Tmux prefix (usually ctrl+b) + <kbd>I</kbd> (capital I)
 ```
